@@ -5,9 +5,7 @@
 2. Create a default argument.
 3. Practice returning a value.
 
-##Instructions
-
-Hello
+## Instructions
 
 In this lab you'll be defining a method called `#parrot`. 
 
@@ -21,5 +19,3 @@ The `#parrot` method should have a default argument of `"Squawk!"`.
 * [Skorks Blog - Arguments With Default Value](http://www.skorks.com/2009/08/method-arguments-in-ruby/)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/parrot-ruby' title='Parrot'>Parrot</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/parrot-ruby'>Return Values Lab</a> on Learn.co and start learning to code for free.</p>
